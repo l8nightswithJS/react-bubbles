@@ -57,6 +57,7 @@ Follow these steps for completing your project:
 
 ## Minimum Viable Product
 
+
 The MVP of this project will be broken up between 2 stages. Follow each step.
 
 ### Stage 1 - Authentication

@@ -27,10 +27,16 @@ In this project you will create a login page and request a token from the server
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] Explain what a token is used for.
-- [ ] What steps can you take in your web apps to keep your data secure?
-- [ ] Describe how web servers work.
-- [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+  A Token is used for authentication and security it acts as an electronic key given when right credentials are given.
 
+- [ ] What steps can you take in your web apps to keep your data secure?
+    Keep everything up tp date, scan for vulnerabilities, Back up data.
+
+- [ ] Describe how web servers work.
+    web servers work by handling request made by client, i.e. sending data, storing data, changing data or receiving data are all things servers handle. 
+
+- [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+  .GET for reading, .POST for adding, .PUT for editing, and .DELETE for deleting
 
 ## Project Set Up
 
@@ -56,6 +62,7 @@ Follow these steps for completing your project:
 - [ ] PM then will count the HW as done by  merging the branch back into master.
 
 ## Minimum Viable Product
+
 
 The MVP of this project will be broken up between 2 stages. Follow each step.
 
